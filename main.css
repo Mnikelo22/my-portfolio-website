@@ -1,0 +1,74 @@
+* {
+    background-color: aliceblue;
+    font-family: "Inconsolata", monospace;
+}
+
+.me {
+ font-weight: 100;
+}
+
+.topnav a {
+    color: black;
+    float: right;
+    text-align: left;
+    text-decoration: none;
+    font-size: 1.3em;
+    font-weight: 100;
+    padding: .01em .8em;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+}
+
+.mywork {
+    text-align: center;
+    font-weight: 200;
+    font-size: 1.4em;
+    padding: 4em 0em 2em;
+}
+
+.go{
+    padding: 0em 1em 0em 0em;
+    text-align: center;
+}
+
+img {
+    border-radius: 30%;
+    float: left;
+}
+
+.foo {
+    text-align: center;
+    width: 18em;
+    padding: 0em 2em;
+}
+
+.hou {
+    text-align: center;
+    width: 15em;
+    padding: 0em 2em;
+}
+
+.myproject {
+    display: inline-flex;
+    padding: 0em 2em;
+}
+
+.about {
+    padding: 4em 0em 4em 0em;
+}
+
+.contacts {
+    color: wheat;
+    background-color: black;
+}
+
+.cont {
+    background-color: black;
+}
+
+.lin {
+    color:tan;
+    background-color: black;
+}
